@@ -15,7 +15,7 @@ formula is a YAML format file which is used to config a [uppm](https://github.co
 |`dep-pkg`|optional|space-separated packages that will be used when installing or runtime.|
 |`install`|optional|bash shell code to be run when installing.|
 
-## the variable can be used in prepare and install block
+## the variable can be used in install block
 |variable|overview|
 |-|-|
 |`NATIVE_OS_TYPE`|current machine os type.|
@@ -26,4 +26,14 @@ formula is a YAML format file which is used to config a [uppm](https://github.co
 |`UPPM_VERSION`|the version of `uppm`.|
 |`UPPM_HOME`|the home directory of `uppm`.|
 |||
-|`UPPM_PKG_INSTALL_DIR`|the directory where the current package will be installed to.|
+|`PKG_SUMMARY`||
+|`PKG_WEBPAGE`||
+|`PKG_VERSION`||
+|`PKG_LICENSE`||
+|`PKG_BIN_URL`||
+|`PKG_BIN_SHA`||
+|`PKG_BIN_FILEPATH`||
+|`PKG_BIN_FILENAME`||
+|`PKG_BIN_FILETYPE`||
+|`PKG_DEP_PKG`||
+|`PKG_INSTALL_DIR`|the directory where the current package will be installed to.|
