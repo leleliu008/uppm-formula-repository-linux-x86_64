@@ -1,5 +1,5 @@
 summary: a toolset that lets you implement parts of your Android app in native code
 webpage: https://developer.android.com/ndk
+version: r21e
 bin-sha: https://dl.google.com/android/repository/android-ndk-r21e-linux-x86_64.zip
 bin-url: ad7ce5467e18d40050dc51b8e7affc3e635c85bd8c59be62de32352328ed467e
-version: r21e
