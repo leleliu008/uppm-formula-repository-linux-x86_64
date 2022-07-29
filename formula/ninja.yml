@@ -1,0 +1,5 @@
+summary: Small build system for use with gyp or CMake
+webpage: https://ninja-build.org/
+version: 1.10.2
+bin-sha: https://github.com/ninja-build/ninja/releases/download/v1.10.2/ninja-linux.zip
+bin-url: 763464859c7ef2ea3a0a10f4df40d2025d3bb9438fcb1228404640410c0ec22d

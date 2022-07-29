@@ -1,0 +1,23 @@
+summary: a toolset that enables developers to create and update different apps for Android devices
+webpage: https://developer.android.com/studio#command-tools
+version: 7583922
+bin-url: https://dl.google.com/android/repository/commandlinetools-linux-7583922_latest.zip
+bin-sha: 124f2d5115eee365df6cf3228ffbca6fc3911d16f8025bebd5b1c6e2fcfa7faf
+depends: jdk17
+
+install: |
+    install -d "$UPPM_INSTALL_DIR/cmdline-tools"
+
+    unzip "$UPPM_BIN_FILEPATH" -d "$UPPM_INSTALL_DIR/cmdline-tools"
+
+    mv "$UPPM_INSTALL_DIR/cmdline-tools/cmdline-tools" "$UPPM_INSTALL_DIR/cmdline-tools/latest"
+
+    yes | $UPPM_INSTALL_DIR/cmdline-tools/latest/bin/sdkmanager 'platforms;android-30'
+    yes | $UPPM_INSTALL_DIR/cmdline-tools/latest/bin/sdkmanager 'build-tools;30.0.3'
+    yes | $UPPM_INSTALL_DIR/cmdline-tools/latest/bin/sdkmanager 'platform-tools'
+
+export: |
+    export ANDROID_HOME="$UPPM_INSTALL_DIR"
+    export PATH="\$ANDROID_HOME/cmdline-tools/latest/bin:\$PATH"
+    export PATH="\$ANDROID_HOME/platform-tools:\$PATH"
+    export PATH="\$ANDROID_HOME/build-tools/30.0.3:\$PATH"
