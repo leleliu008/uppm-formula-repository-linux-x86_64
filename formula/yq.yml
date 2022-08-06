@@ -1,0 +1,5 @@
+summary: a lightweight and portable command-line YAML processor
+webpage: https://mikefarah.gitbook.io/yq
+version: 4.25.3
+bin-url: https://github.com/leleliu008/ppkg-core-linux-x86_64/releases/download/2022.05.28/yq-4.25.3-linux-x86_64.tar.xz
+bin-sha: d788e29396cbae87a585753fd8bd0441f6027dfbe613e87928088e6d8f26f8d5

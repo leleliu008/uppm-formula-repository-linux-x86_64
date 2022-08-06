@@ -1,5 +1,5 @@
 summary: a cross-platform build-generator tool
 webpage: https://cmake.org/
-version: 3.21.4
-bin-url: https://github.com/Kitware/CMake/releases/download/v3.21.4/cmake-3.21.4-linux-x86_64.tar.gz
-bin-sha: eddba9da5b60e0b5ec5cbb1a65e504d776e247573204df14f6d004da9bc611f9
+version: 3.23.1
+bin-url: https://github.com/leleliu008/ppkg-core-linux-x86_64/releases/download/2022.05.28/cmake-3.23.1-linux-x86_64.tar.xz
+bin-sha: 76659f8bef6851fbcacc2bad88b75fb4454173d9ae5bb9d8ae01608002f9453c

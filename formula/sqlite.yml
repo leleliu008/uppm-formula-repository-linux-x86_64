@@ -1,0 +1,5 @@
+summary: command-line interface for SQLite
+webpage: https://sqlite.org/
+version: 3.38.5
+bin-url: https://github.com/leleliu008/ppkg-core-linux-x86_64/releases/download/2022.05.28/sqlite-3.38.5-linux-x86_64.tar.xz
+bin-sha: 9f9290b0a2bac426dc7522fee2963be6fe36f670103923058db3ea695009c66e

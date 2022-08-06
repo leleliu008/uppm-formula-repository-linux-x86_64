@@ -1,5 +1,5 @@
 summary: a command-line tool to determine file types
 webpage: https://www.darwinsys.com/file
 version: 5.41
-bin-url: https://github.com/leleliu008/ppkg-core-linux-x86_64/releases/download/2022.05.22/file-5.41-linux-x86_64.tar.xz
+bin-url: https://github.com/leleliu008/ppkg-core-linux-x86_64/releases/download/2022.05.28/file-5.41-linux-x86_64.tar.xz
 bin-sha: 004a4110f9f687eefa643db4f59f1500879dd5bd69d0494c3cabd475ed6fd449

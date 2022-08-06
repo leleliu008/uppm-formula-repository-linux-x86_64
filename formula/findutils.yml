@@ -1,0 +1,5 @@
+summary: Collection of GNU find, xargs, and locate
+webpage: https://www.gnu.org/software/findutils
+version: 4.9.0
+bin-url: https://github.com/leleliu008/ppkg-core-linux-x86_64/releases/download/2022.05.28/findutils-4.9.0-linux-x86_64.tar.xz
+bin-sha: eed78482bd8d4d85cdad5883911b87e34d8b5b553adbe1159fc2b00b6336b90e
