@@ -1,5 +1,5 @@
 summary: Small build system for use with gyp or CMake
 webpage: https://ninja-build.org/
 version: 1.11.0
-bin-url: https://github.com/leleliu008/ppkg-core-linux-x86_64/releases/download/2022.05.28/ninja-1.11.0-linux-x86_64.tar.xz
+bin-url: https://github.com/leleliu008/ppkg-core-linux-x86_64/releases/download/2022.08.16/ninja-1.11.0-linux-x86_64.tar.xz
 bin-sha: 45f833f0957055549ffccdaf67a5ae42e4b871fcb91a644de31d7535828bec73

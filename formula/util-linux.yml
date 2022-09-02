@@ -1,5 +1,5 @@
 summary: Collection of Linux utilities
 webpage: https://github.com/karelzak/util-linux
 version: 2.38
-bin-url: https://github.com/leleliu008/ppkg-core-linux-x86_64/releases/download/2022.05.28/util-linux-2.38-linux-x86_64.tar.xz
+bin-url: https://github.com/leleliu008/ppkg-core-linux-x86_64/releases/download/2022.08.16/util-linux-2.38-linux-x86_64.tar.xz
 bin-sha: 6a4e8c92d41d828b5c6998d4653fbcf664f16a734d2d6bf1b8a1eaf95dfae1ca

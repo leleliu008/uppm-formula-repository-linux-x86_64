@@ -1,5 +1,5 @@
 summary: Utility for modifying existing ELF executables and libraries
 webpage: https://github.com/NixOS/patchelf
 version: 0.14.5
-bin-url: https://github.com/leleliu008/ppkg-core-linux-x86_64/releases/download/2022.05.28/patchelf-0.14.5-linux-x86_64.tar.xz
+bin-url: https://github.com/leleliu008/ppkg-core-linux-x86_64/releases/download/2022.08.16/patchelf-0.14.5-linux-x86_64.tar.xz
 bin-sha: e21089041deb2a3773ba239148e5a6ffa025cbaee0b1a46ff2adb57fc651b3c7

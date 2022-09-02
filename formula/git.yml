@@ -1,5 +1,5 @@
 summary: a distributed version control system designed to handle everything from small to very large projects with speed and efficiency
 webpage: https://git-scm.com/
 version: 2.36.1
-bin-url: https://github.com/leleliu008/ppkg-core-linux-x86_64/releases/download/2022.05.28/git-2.36.1-linux-x86_64.tar.xz
+bin-url: https://github.com/leleliu008/ppkg-core-linux-x86_64/releases/download/2022.08.16/git-2.36.1-linux-x86_64.tar.xz
 bin-sha: d8543cc6a0f29cdcdb9c7418961e349cff8b1b3244fe4db16f6e06315b90c517

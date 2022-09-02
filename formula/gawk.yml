@@ -1,5 +1,5 @@
 summary: GNU awk utility
 webpage: https://www.gnu.org/software/gawk
 version: 5.1.0
-bin-url: https://github.com/leleliu008/ppkg-core-linux-x86_64/releases/download/2022.05.28/gawk-5.1.0-linux-x86_64.tar.xz
+bin-url: https://github.com/leleliu008/ppkg-core-linux-x86_64/releases/download/2022.08.16/gawk-5.1.0-linux-x86_64.tar.xz
 bin-sha: 1adac38544a631a4cd3dd2792e9bcd9f5177b627aabc93afc9fdb4b54c3286e9

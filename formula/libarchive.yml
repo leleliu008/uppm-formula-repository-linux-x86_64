@@ -1,5 +1,5 @@
 summary: Multi-format archive and compression library
 webpage: https://www.libarchive.org/
 version: 3.4.3
-bin-url: https://github.com/leleliu008/ppkg-core-linux-x86_64/releases/download/2022.05.28/libarchive-3.4.3-linux-x86_64.tar.xz
+bin-url: https://github.com/leleliu008/ppkg-core-linux-x86_64/releases/download/2022.08.16/libarchive-3.4.3-linux-x86_64.tar.xz
 bin-sha: ac1c439f59aaa8e1a35b862fa88f66e3015dc0c631b67c708a2195969365a1d8
