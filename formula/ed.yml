@@ -1,0 +1,5 @@
+summary: Classic UNIX line editor
+webpage: https://www.gnu.org/software/ed/ed.html
+version: 1.18
+bin-url: https://raw.githubusercontent.com/leleliu008/ppkg-core-linux-x86_64/master/ed-1.18-linux-x86_64.tar.xz
+bin-sha: 395c7a53e1808839d9633d9851ddf703110e3ed18935e48253a9ff6bad6a83f9
