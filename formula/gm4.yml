@@ -1,0 +1,5 @@
+summary: Macro processing language
+webpage: https://www.gnu.org/software/m4
+version: 1.4.19
+bin-url: https://raw.githubusercontent.com/leleliu008/ppkg-core-linux-x86_64/master/gm4-1.4.19-linux-x86_64.tar.xz
+bin-sha: d5f399eace668cfc6b7c06581016f1dfcd639e7ad7c1816a28fe2bc714af79ab
