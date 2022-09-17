@@ -1,5 +1,5 @@
 summary: Extraction utility for .zip compressed archives
 webpage: https://infozip.sourceforge.io/UnZip.html
 version: 6.0.26
-bin-url: https://github.com/leleliu008/ppkg-core-linux-x86_64/releases/download/2022.08.16/unzip-6.0.26-linux-x86_64.tar.xz
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2022.09.18/unzip-6.0.26-linux-x86_64.tar.xz
 bin-sha: 983e0e2ae0bb2ac571190247463c781ea650cf03956e991574e9f5f393008d6c

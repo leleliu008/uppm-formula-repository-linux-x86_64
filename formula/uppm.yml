@@ -1,0 +1,5 @@
+summary: Universal Prebuild Package Manager
+webpage: https://github.com/leleliu008/uppm.git
+version: 2022.08.31
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2022.09.18/uppm-2022.08.31-linux-x86_64.tar.xz
+bin-sha: f7f57cad7a0363da2812236dfce61747c24eecc9649a597f7c0154ea7de79387

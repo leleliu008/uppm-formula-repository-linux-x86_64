@@ -1,0 +1,5 @@
+summary: Tools for and transforming and inspecting PDF files
+webpage: https://github.com/qpdf/qpdf.git
+version: 10.6.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2022.09.18/qpdf-10.6.3-linux-x86_64.tar.xz
+bin-sha: 34d24b2336f76f2773bed7f1d24143003ff8075398cdd21b5b31c5d2bf8ff588

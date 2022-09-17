@@ -1,0 +1,5 @@
+summary: Simple terminal UI for git commands
+webpage: https://github.com/jesseduffield/lazygit.git
+version: 0.35
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2022.09.18/lazygit-0.35-linux-x86_64.tar.xz
+bin-sha: dfdeeb1b7fdf6b71e39427dc0fe1d903c9a1a5df929d6c049787376ca7aacbdb
