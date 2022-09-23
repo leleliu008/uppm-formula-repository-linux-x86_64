@@ -1,5 +1,5 @@
 summary: Collection of Linux utilities
 webpage: https://github.com/karelzak/util-linux
 version: 2.38
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2022.09.18/util-linux-2.38-linux-x86_64.tar.xz
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2022.09.23/util-linux-2.38-linux-x86_64.tar.xz
 bin-sha: 6a4e8c92d41d828b5c6998d4653fbcf664f16a734d2d6bf1b8a1eaf95dfae1ca

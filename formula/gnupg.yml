@@ -1,5 +1,5 @@
 summary: GNU Pretty Good Privacy (PGP) package
 webpage: https://www.gnupg.org
 version: 2.3.6
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2022.09.18/gnupg-2.3.6-linux-x86_64.tar.xz
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2022.09.23/gnupg-2.3.6-linux-x86_64.tar.xz
 bin-sha: ebb79d9d3fac23dd4003a05cdb8ad3fbd5834b2e57ac2c7fbd3de5ef5f282ce8

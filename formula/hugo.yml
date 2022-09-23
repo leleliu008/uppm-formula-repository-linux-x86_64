@@ -1,5 +1,5 @@
 summary: Configurable static site generator
 webpage: https://gohugo.io
 version: 0.101.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2022.09.18/hugo-0.101.0-linux-x86_64.tar.xz
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2022.09.23/hugo-0.101.0-linux-x86_64.tar.xz
 bin-sha: 9cb550df3eb80eb513b120c1d931508d31977b3a317e3da537679682705d81c0
