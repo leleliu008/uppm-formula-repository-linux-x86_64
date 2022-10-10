@@ -1,5 +1,5 @@
 summary: Terminal multiplexer
 webpage: https://tmux.github.io
 version: 3.3a
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2022.09.23/tmux-3.3a-linux-x86_64.tar.xz
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2022.10.10/tmux-3.3a-linux-x86_64.tar.xz
 bin-sha: c0bb6ab7737b73b1327cdb33063423dc156398e20c1aaba2c4e4f81d0a367a9d
