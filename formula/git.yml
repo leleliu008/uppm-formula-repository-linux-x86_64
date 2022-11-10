@@ -1,5 +1,5 @@
 summary: Distributed revision control system
-webpage: https://git-scm.com
+webpage: https://git-scm.com/
 version: 2.37.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2022.10.23/git-2.37.3-linux-x86_64.tar.xz
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2022.11.10/git-2.37.3-linux-x86_64.tar.xz
 bin-sha: cbb7ecea6d69f6a50ccd4f4516622ca3ee2d264c5fa66d664d39f20b1a2fbc90
