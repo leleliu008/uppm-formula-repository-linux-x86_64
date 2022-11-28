@@ -1,5 +1,5 @@
 summary: Multi-format archive and compression library
-webpage: https://www.libarchive.org/
-version: 3.4.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2022.10.10/libarchive-3.4.3-linux-x86_64.tar.xz
-bin-sha: ac1c439f59aaa8e1a35b862fa88f66e3015dc0c631b67c708a2195969365a1d8
+webpage: https://www.libarchive.org
+version: 3.6.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2022.11.10/libarchive-3.6.1-linux-x86_64.tar.xz
+bin-sha: 356bc668f3a2b4b6ba37a6144ad51cf623d56547b2543ecc4d5b58bdd4415939

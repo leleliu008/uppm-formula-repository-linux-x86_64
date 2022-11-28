@@ -1,5 +1,5 @@
 summary: Download Youtube Video in Golang
 webpage: https://github.com/kkdai/youtube.git
-version: 2.7.15
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2022.10.10/youtubedr-2.7.15-linux-x86_64.tar.xz
-bin-sha: 40bba2f84fec251cacd56b2c244a8aedf2597495307c74ac96598b4999bd43bb
+version: 2022.10.23
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2022.11.10/youtubedr-2022.10.23-linux-x86_64.tar.xz
+bin-sha: a0d03ff5a26d2a1ffc1ec8ae0dc16b61c149db0de2dbcf75bc8e8c42f9b273c4

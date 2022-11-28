@@ -1,5 +1,5 @@
 summary: Manage compile and link flags for libraries
 webpage: https://freedesktop.org/wiki/Software/pkg-config
 version: 0.29.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2022.10.10/pkg-config-0.29.2-linux-x86_64.tar.xz
-bin-sha: 19a3a44b249528a182b1b624fa3fc381c29751cf19d55997dde1500f0323efd8
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2022.11.10/pkg-config-0.29.2-linux-x86_64.tar.xz
+bin-sha: 5ec10e5fa2e945410c0ced34c2d753d0c9350a25783a6b18ea9c3972e1de1109

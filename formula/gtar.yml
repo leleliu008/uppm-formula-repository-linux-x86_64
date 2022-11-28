@@ -1,5 +1,5 @@
 summary: GNU version of the tar archiving utility
 webpage: https://www.gnu.org/software/tar
 version: 1.34
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2022.10.10/gtar-1.34-linux-x86_64.tar.xz
-bin-sha: 49a38ddbda48fe7eb4a2a2cddd20423c8930747486a15fbec5c96d44c933fc82
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2022.11.10/gtar-1.34-linux-x86_64.tar.xz
+bin-sha: a3d183daa0bed614d7b4e299a94f15f4595d4816915ef24b2a46bee710a011f8
