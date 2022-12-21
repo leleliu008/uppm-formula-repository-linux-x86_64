@@ -10,7 +10,7 @@ formula is a YAML format file which is used to config a [uppm](https://github.co
 |`webpage`|required|the home webpage of this package.|
 |`license`|optional|the license of this package.|
 |`version`|optional|the version of this package.<br>If this key is not present, it will be calculated from `bin-url`|
-|`bin-url`|required|the prebuild binary archive file download url of this package.<br>must end with one of `.zip` `.tar.xz` `.tar.gz` `.tar.lz` `.tar.bz2` `.tgz` `.txz` `.tlz`|
+|`bin-url`|required|the prebuild binary archive file download url of this package.<br>must end with one of `.zip` `.tar.xz` `.tar.gz` `.tar.lz` `.tar.bz2` `.tgz` `.txz` `.tlz` `.tbz2`|
 |`bin-sha`|required|the `sha256sum` of the prebuild binary archive file.|
 |`dep-pkg`|optional|space-separated packages that will be used when installing or runtime.|
 |`install`|optional|bash shell code to be run when installing.|
@@ -31,7 +31,7 @@ formula is a YAML format file which is used to config a [uppm](https://github.co
 |`PKG_SUMMARY`||
 |`PKG_VERSION`||
 |`PKG_LICENSE`||
-|`PKG_WEB_URL`||
+|`PKG_WEBPAGE`||
 |`PKG_BIN_URL`||
 |`PKG_BIN_SHA`||
 |`PKG_BIN_FILEPATH`||
