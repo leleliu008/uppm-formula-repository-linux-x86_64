@@ -1,5 +1,5 @@
 summary: File comparison utilities
-webpage: https://www.gnu.org/software/diffutils
+web-url: https://www.gnu.org/software/diffutils
 version: 3.8
 bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2022.12.11/diffutils-3.8-linux-x86_64.tar.xz
 bin-sha: af67f5889b9dfec5d1ab20aba64285527569a5ac767ab89a2d4e336b89844191

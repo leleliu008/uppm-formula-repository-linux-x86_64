@@ -1,5 +1,5 @@
 summary: Small build system for use with gyp or CMake
-webpage: https://ninja-build.org/
+web-url: https://ninja-build.org/
 version: 1.11.0
 bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2022.12.11/ninja-1.11.0-linux-x86_64.tar.xz
 bin-sha: 536c7d019b426c2a5cb92b69e030dc704725a9f4a747e485561b6d9e8c05443e
