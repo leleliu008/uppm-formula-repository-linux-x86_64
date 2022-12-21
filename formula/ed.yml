@@ -1,5 +1,5 @@
 summary: Classic UNIX line editor
-web-url: https://www.gnu.org/software/ed/ed.html
+webpage: https://www.gnu.org/software/ed/ed.html
 version: 1.18
 bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2022.12.11/ed-1.18-linux-x86_64.tar.xz
 bin-sha: 8a5f64db2cdbadf796903e398bbcbd4beda86ae46a537b186cb11f58f98c6c95

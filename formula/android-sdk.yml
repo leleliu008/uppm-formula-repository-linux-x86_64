@@ -1,5 +1,5 @@
 summary: a toolset that enables developers to create and update different apps for Android devices
-web-url: https://developer.android.com/studio#command-tools
+webpage: https://developer.android.com/studio#command-tools
 version: 7583922
 bin-url: https://dl.google.com/android/repository/commandlinetools-linux-7583922_latest.zip
 bin-sha: 124f2d5115eee365df6cf3228ffbca6fc3911d16f8025bebd5b1c6e2fcfa7faf

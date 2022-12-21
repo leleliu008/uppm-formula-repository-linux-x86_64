@@ -1,5 +1,5 @@
 summary: Open source programming language to build simple/reliable/efficient software
-web-url: https://go.dev/
+webpage: https://go.dev/
 version: 1.19
 
 bin-url: https://dl.google.com/go/go1.19.linux-amd64.tar.gz

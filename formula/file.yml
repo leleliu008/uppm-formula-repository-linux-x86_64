@@ -1,5 +1,5 @@
 summary: Utility to determine file types
-web-url: https://www.darwinsys.com/file
+webpage: https://www.darwinsys.com/file
 version: 5.42
 bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2022.12.11/file-5.42-linux-x86_64.tar.xz
 bin-sha: 451aeb1dae44fd341b4684836470525eff9516d5f034e1d2fbd1ae2fe22a7bcc

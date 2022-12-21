@@ -18,10 +18,12 @@ formula is a YAML format file which is used to config a [uppm](https://github.co
 ## the variable can be used in install block
 |variable|overview|
 |-|-|
+|`NATIVE_OS_ARCH`|current machine os arch.|
+|`NATIVE_OS_KIND`|current machine os kind.|
 |`NATIVE_OS_TYPE`|current machine os type.|
 |`NATIVE_OS_NAME`|current machine os name.|
 |`NATIVE_OS_VERS`|current machine os version.|
-|`NATIVE_OS_ARCH`|current machine os arch.|
+|`NATIVE_OS_NCPU`|current machine os has how many cpu cores.|
 |||
 |`UPPM_VERSION`|the version of `uppm`.|
 |`UPPM_HOME`|the home directory of `uppm`.|

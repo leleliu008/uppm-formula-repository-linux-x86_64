@@ -1,5 +1,5 @@
 summary: a command-line tool to analyze packet(TCP/IP)
-web-url: https://www.tcpdump.org/
+webpage: https://www.tcpdump.org/
 version: 4.99.1
 bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2022.12.11/tcpdump-4.99.1-linux-x86_64.tar.xz
 bin-sha: 0f9b51d3ebb8ca965a894721034aaac3b7284582f818cb0c6aec012d1c699f6c
