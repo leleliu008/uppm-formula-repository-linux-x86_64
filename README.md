@@ -9,11 +9,11 @@ formula is a [YAML](https://yaml.org/spec/1.2.2/) format file which is used to c
 |`summary`|required|the summary of this package.|
 |`webpage`|required|the home webpage of this package.|
 |`license`|optional|the license of this package.|
-|`version`|optional|the version of this package.<br>If this key is not present, it will be calculated from `bin-url`|
-|`bin-url`|required|the prebuild binary archive file download url of this package.<br>must end with one of `.zip` `.tar.xz` `.tar.gz` `.tar.lz` `.tar.bz2` `.tgz` `.txz` `.tlz` `.tbz2`|
+|`version`|optional|the version of this package.<br>If this mapping is not present, it will be calculated from `bin-url`|
+|`bin-url`|required|the prebuild binary archive file download url of this package.|
 |`bin-sha`|required|the `sha256sum` of the prebuild binary archive file.|
 |`dep-pkg`|optional|a space-separated list of package names. these packages will be used when installing or runtime.|
-|`install`|optional|POSIX shell code to be run when installing.|
+|`install`|optional|POSIX shell code to be run when installing.<br>If this mapping is not present, and if `bin-url` mapping's value ends with any of `.zip` `.tar.xz` `.tar.gz` `.tar.lz` `.tar.bz2` `.tgz` `.txz` `.tlz` `.tbz2`, `uppm` will uncompress it to `PKG_INSTALL_DIR` for you. otherwise, just copy it to `PKG_INSTALL_DIR`|
 
 ## the variable can be used in install block
 |variable|overview|
