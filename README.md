@@ -2,7 +2,7 @@
 the offical formula repository for [uppm](https://github.com/leleliu008/uppm)
 
 ## what's formula
-formula is a YAML format file which is used to config a [uppm](https://github.com/leleliu008/uppm) package infomation and describe how to install it.
+formula is a [YAML](https://yaml.org/spec/1.2.2/) format file which is used to config a [uppm](https://github.com/leleliu008/uppm) package infomation and describe how to install it.
 
 |KEY|required?|overview|
 |-|-|-|
@@ -12,8 +12,8 @@ formula is a YAML format file which is used to config a [uppm](https://github.co
 |`version`|optional|the version of this package.<br>If this key is not present, it will be calculated from `bin-url`|
 |`bin-url`|required|the prebuild binary archive file download url of this package.<br>must end with one of `.zip` `.tar.xz` `.tar.gz` `.tar.lz` `.tar.bz2` `.tgz` `.txz` `.tlz` `.tbz2`|
 |`bin-sha`|required|the `sha256sum` of the prebuild binary archive file.|
-|`dep-pkg`|optional|space-separated packages that will be used when installing or runtime.|
-|`install`|optional|bash shell code to be run when installing.|
+|`dep-pkg`|optional|a space-separated list of package names. these packages will be used when installing or runtime.|
+|`install`|optional|POSIX shell code to be run when installing.|
 
 ## the variable can be used in install block
 |variable|overview|
