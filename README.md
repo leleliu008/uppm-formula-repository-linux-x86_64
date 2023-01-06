@@ -8,7 +8,7 @@ formula is a [YAML](https://yaml.org/spec/1.2.2/) format file which is used to c
 |-|-|-|
 |`summary`|required|Describe this package in one sentence.|
 |`webpage`|required|the home webpage url of this package.|
-|`license`|optional|a space-separated list of [SPDX license short identifiers](https://spdx.github.io/spdx-spec/v2.3/SPDX-license-list/#a1-licenses-with-short-identifiers|
+|`license`|optional|a space-separated list of [SPDX license short identifiers](https://spdx.github.io/spdx-spec/v2.3/SPDX-license-list/#a1-licenses-with-short-identifiers)|
 |`version`|optional|the version of this package.<br>If this mapping is not present, it will be calculated from `bin-url`|
 |`bin-url`|required|the prebuild binary file download url of this package.|
 |`bin-sha`|required|the `sha256sum` of the prebuild binary file.|
