@@ -6,12 +6,12 @@ formula is a [YAML](https://yaml.org/spec/1.2.2/) format file which is used to c
 
 |KEY|required?|overview|
 |-|-|-|
-|`summary`|required|the summary of this package.|
-|`webpage`|required|the home webpage of this package.|
-|`license`|optional|the license of this package.|
+|`summary`|required|Describe this package in one sentence.|
+|`webpage`|required|the home webpage url of this package.|
+|`license`|optional|a space-separated list of [SPDX license short identifiers](https://spdx.github.io/spdx-spec/v2.3/SPDX-license-list/#a1-licenses-with-short-identifiers|
 |`version`|optional|the version of this package.<br>If this mapping is not present, it will be calculated from `bin-url`|
-|`bin-url`|required|the prebuild binary archive file download url of this package.|
-|`bin-sha`|required|the `sha256sum` of the prebuild binary archive file.|
+|`bin-url`|required|the prebuild binary file download url of this package.|
+|`bin-sha`|required|the `sha256sum` of the prebuild binary file.|
 |`dep-pkg`|optional|a space-separated list of package names. these packages will be used when installing or runtime.|
 |`install`|optional|POSIX shell code to be run when installing.<br>If this mapping is not present, and if `bin-url` mapping's value ends with any of `.zip` `.tar.xz` `.tar.gz` `.tar.lz` `.tar.bz2` `.tgz` `.txz` `.tlz` `.tbz2`, `uppm` will uncompress it to `PKG_INSTALL_DIR` for you. otherwise, just copy it to `PKG_INSTALL_DIR`|
 
@@ -26,7 +26,11 @@ formula is a [YAML](https://yaml.org/spec/1.2.2/) format file which is used to c
 |`NATIVE_OS_NCPU`|current machine os has how many cpu cores.|
 |||
 |`UPPM_VERSION`|the version of `uppm`.|
+|`UPPM_VERSION_MAJOR`|the major part of version of `uppm`.|
+|`UPPM_VERSION_MINOR`|the minor part of version of `uppm`.|
+|`UPPM_VERSION_PATCH`|the patch part of version of `uppm`.|
 |`UPPM_HOME`|the home directory of `uppm`.|
+|`UPPM_EXECUTABLE`|the executbale path of `uppm`.|
 |||
 |`PKG_SUMMARY`||
 |`PKG_VERSION`||
