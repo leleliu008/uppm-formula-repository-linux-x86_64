@@ -1,9 +1,10 @@
 # uppm-formula-repository-linux-x86_64
 the offical formula repository for [uppm](https://github.com/leleliu008/uppm)
 
-## what's formula
-formula is a [YAML](https://yaml.org/spec/1.2.2/) format file which is used to config a [uppm](https://github.com/leleliu008/uppm) package infomation and describe how to install it.
+## uppm formula
+a uppm formula is a [YAML](https://yaml.org/spec/1.2.2/) format file which is used to config a uppm package's meta-information including one sentence description, package version, installation instructions, etc.
 
+## uppm formula scheme
 |KEY|required?|overview|
 |-|-|-|
 |`summary`|required|Describe this package in one sentence.|
