@@ -1,0 +1,5 @@
+summary: a toolset that lets you implement parts of your Android app in native code
+webpage: https://developer.android.com/ndk
+version: r25c
+bin-url: https://dl.google.com/android/repository/android-ndk-r25c-linux.zip
+bin-sha: 769ee342ea75f80619d985c2da990c48b3d8eaf45f48783a2d48870d04b46108
