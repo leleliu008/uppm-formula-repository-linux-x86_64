@@ -1,0 +1,5 @@
+summary: gRPC offical plugins
+webpage: https://grpc.io
+version: 1.53.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2022.12.11/grpc-plugins-1.53.0-linux-x86_64.tar.xz
+bin-sha: 9c6b42d147f7b9e71d90b6f5a5718d4cd64cff7f5bd353815fc66a5421a285c0
