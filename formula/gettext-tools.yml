@@ -1,0 +1,5 @@
+summary: GNU internationalization (i18n) and localization (l10n) tools
+webpage: https://www.gnu.org/software/gettext
+version: 0.21
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2022.12.11/gettext-tools-0.21-linux-x86_64.tar.xz
+bin-sha: e13113e4aeef35735d3338acbcfb91ed9ccbe33d15cce7aa5781c7e7117398fe
