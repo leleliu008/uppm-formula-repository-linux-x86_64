@@ -1,5 +1,5 @@
 summary: Cross-platform build utility based on Lua
 webpage: https://xmake.io/
-version: 2.7.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2022.12.11/xmake-2.7.1-linux-x86_64.tar.xz
-bin-sha: 0240112922a15d558ec744424b29c66e328dfa85d371feeb0088c427e79da629
+version: 2.7.8
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2022.12.11/xmake-2.7.8-linux-x86_64.tar.xz
+bin-sha: 777243b52d80e40d172d90cfd2e220cffc730eb62ee3ef9be78b59864846a406
