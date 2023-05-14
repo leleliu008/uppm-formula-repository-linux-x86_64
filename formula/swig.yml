@@ -1,0 +1,5 @@
+summary: Generate scripting interfaces to C/C++ code
+webpage: https://www.swig.org/
+version: 4.1.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2022.12.11/swig-4.1.1-linux-x86_64.tar.xz
+bin-sha: 74654736d8d81f4ac95ee92a5ad65b748b06e41bf43d1983efd503b50e15e401
