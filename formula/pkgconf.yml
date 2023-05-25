@@ -1,0 +1,5 @@
+summary: Reimplementation of pkg-config
+webpage: http://pkgconf.org
+version: 1.9.5
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2022.12.11/pkgconf-1.9.5-linux-x86_64.tar.xz
+bin-sha: d4cdf05e77b43e79b64e804e79ac424acdbd771f396cc4877bf1db2b004ecbb5
