@@ -6,9 +6,8 @@ bin-sha: 124f2d5115eee365df6cf3228ffbca6fc3911d16f8025bebd5b1c6e2fcfa7faf
 dep-pkg: jdk17
 
 install: |
-    mv cmdline-tools latest
-    install -d cmdline-tools/
-    mv latest  cmdline-tools/
+    install -d cmdline-tools/latest/
+    mv bin lib NOTICE.txt source.properties cmdline-tools/latest/
 
     yes | cmdline-tools/latest/bin/sdkmanager 'platforms;android-30'
     yes | cmdline-tools/latest/bin/sdkmanager 'build-tools;30.0.3'
