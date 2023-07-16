@@ -3,18 +3,16 @@ webpage: https://developer.android.com/studio#command-tools
 version: 7583922
 bin-url: https://dl.google.com/android/repository/commandlinetools-linux-7583922_latest.zip
 bin-sha: 124f2d5115eee365df6cf3228ffbca6fc3911d16f8025bebd5b1c6e2fcfa7faf
-dep-pkg: jdk17 unzip
+dep-pkg: jdk17
 
 install: |
-    install -d "$PKG_INSTALL_DIR/cmdline-tools"
+    mv cmdline-tools latest
+    install -d cmdline-tools/
+    mv latest  cmdline-tools/
 
-    unzip "$PKG_BIN_FILEPATH" -d "$PKG_INSTALL_DIR/cmdline-tools"
-
-    mv "$PKG_INSTALL_DIR/cmdline-tools/cmdline-tools" "$PKG_INSTALL_DIR/cmdline-tools/latest"
-
-    yes | $PKG_INSTALL_DIR/cmdline-tools/latest/bin/sdkmanager 'platforms;android-30'
-    yes | $PKG_INSTALL_DIR/cmdline-tools/latest/bin/sdkmanager 'build-tools;30.0.3'
-    yes | $PKG_INSTALL_DIR/cmdline-tools/latest/bin/sdkmanager 'platform-tools'
+    yes | cmdline-tools/latest/bin/sdkmanager 'platforms;android-30'
+    yes | cmdline-tools/latest/bin/sdkmanager 'build-tools;30.0.3'
+    yes | cmdline-tools/latest/bin/sdkmanager 'platform-tools'
 
 export: |
     export ANDROID_HOME="$PKG_INSTALL_DIR"
