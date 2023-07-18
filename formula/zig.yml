@@ -3,6 +3,4 @@ webpage: https://ziglang.org/
 bin-url: https://ziglang.org/builds/zig-linux-x86_64-0.11.0-dev.3950+a75531073.tar.xz
 bin-sha: 7205b11efa7476d96cce7dea1b33db98c8dc2d7ea7b7f9563efb518a86aa161a
 version: 0.11.0-dev.3950
-install: |
-  install -d bin/
-  mv zig     bin/
+unpackd: bin

@@ -4,9 +4,6 @@ bin-url: https://docbook.org/xml/5.1/docbook-v5.1-os.zip
 bin-sha: b3f3413654003c1e773360d7fc60ebb8abd0e8c9af8e7d6c4b55f124f34d1e7f
 dep-pkg: curl unzip libxml2-utils
 install: |
-    pwd
-    rm -rfv *
-
     DOCBOOK_XML_VERSION_LIST='
     30f0644064e0ea71751438251940b1431f46acada814a062870f486c772e7772=https://docbook.org/xml/4.1.2/docbkx412.zip
     acc4601e4f97a196076b7e64b368d9248b07c7abf26b34a02cca40eeebe60fa2=https://docbook.org/xml/4.2/docbook-xml-4.2.zip

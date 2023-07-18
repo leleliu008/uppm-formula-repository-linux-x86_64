@@ -4,6 +4,4 @@ version: 0.9.19
 bin-url: https://github.com/lu-zero/cargo-c/releases/download/v0.9.19/cargo-c-x86_64-unknown-linux-musl.tar.gz
 bin-sha: 44e708f6b0b58d9f905a074738227163eb09863a233880e1836d2a6ee7e28baa
 dep-pkg: curl
-install: |
-  install -d bin/
-  mv cargo-* bin/
+unpackd: bin
