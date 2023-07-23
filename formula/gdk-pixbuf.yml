@@ -1,0 +1,5 @@
+summary: Toolkit for image loading and pixel buffer manipulation
+webpage: https://github.com/GNOME/gdk-pixbuf
+version: 2.42.10
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2022.12.11/gdk-pixbuf-2.42.10-linux-x86_64-glibc.tar.xz
+bin-sha: 8f8860ba46170c707111565ade0c52461bc5100d7aa6976256aacbf703038a03
