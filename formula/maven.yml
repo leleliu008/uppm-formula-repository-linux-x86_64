@@ -1,0 +1,6 @@
+summary: A Java-based project management and comprehension tool.
+webpage: https://maven.apache.org/
+bin-url: https://dlcdn.apache.org/maven/maven-3/3.9.4/binaries/apache-maven-3.9.4-bin.tar.gz
+bin-sha: ff66b70c830a38d331d44f6c25a37b582471def9a161c93902bac7bea3098319
+version: 3.9.4
+dep-pkg: jdk17
