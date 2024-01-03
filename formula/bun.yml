@@ -1,0 +1,6 @@
+summary: Incredibly fast JavaScript runtime, bundler, transpiler and package manager - all in one
+webpage: https://bun.sh/
+version: 1.0.21
+bin-url: https://github.com/oven-sh/bun/releases/download/bun-v1.0.21/bun-linux-x64-baseline.zip
+bin-sha: 7804ceca0fc8538cd416a712789c402fe21bbf0aa1cc298b31e815a8eb3e1325
+unpackd: bin
