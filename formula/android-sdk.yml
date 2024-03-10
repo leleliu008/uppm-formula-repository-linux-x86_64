@@ -1,12 +1,12 @@
 summary: a toolset that enables developers to create and update different apps for Android devices
-webpage: https://developer.android.com/studio#command-tools
-version: 7583922
-bin-url: https://dl.google.com/android/repository/commandlinetools-linux-7583922_latest.zip
-bin-sha: 124f2d5115eee365df6cf3228ffbca6fc3911d16f8025bebd5b1c6e2fcfa7faf
+webpage: https://developer.android.com/studio#command-line-tools-only
+version: 11076708
+bin-url: https://dl.google.com/android/repository/commandlinetools-linux-11076708_latest.zip
+bin-sha: 2d2d50857e4eb553af5a6dc3ad507a17adf43d115264b1afc116f95c92e5e258
 dep-pkg: jdk17
 unpackd: cmdline-tools/latest
 install: |
-    yes | cmdline-tools/latest/bin/sdkmanager 'platforms;android-30'
+    yes | cmdline-tools/latest/bin/sdkmanager 'platforms;android-34'
     yes | cmdline-tools/latest/bin/sdkmanager 'build-tools;30.0.3'
     yes | cmdline-tools/latest/bin/sdkmanager 'platform-tools'
 
