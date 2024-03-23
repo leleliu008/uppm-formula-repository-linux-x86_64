@@ -1,0 +1,5 @@
+summary: The Glasgow Haskell Compiler
+webpage: https://www.haskell.org/ghc/
+version: 9.8.2
+bin-url: https://downloads.haskell.org/~ghc/9.8.2/ghc-9.8.2-x86_64-alpine3_12-linux-static.tar.xz
+bin-sha: 71eb4bf339d109cf3c883b896adaa7fa4a720496c11f84f2013e583cb5556608
