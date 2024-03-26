@@ -1,5 +1,5 @@
 summary: Reimplementation of pkg-config
 webpage: http://pkgconf.org
-version: 2.0.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2022.12.11/pkgconf-2.0.3-linux-x86_64.tar.xz
-bin-sha: a81d689a88a233eee8e5b8ba1f9dceeb12610ef0fee86b4d4691c70fd951ea9d
+version: 2.1.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.03.26/pkgconf-2.1.1-linux-musl-x86_64.tar.xz
+bin-sha: e3ce51cef22c28c130208732bd87a57ada8cdcc5f5f72a9666c8fcbc7cb9021f

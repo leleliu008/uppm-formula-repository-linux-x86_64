@@ -1,5 +1,5 @@
 summary: Download with resuming and segmented downloading
 webpage: https://aria2.github.io
-version: 1.36.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2022.12.11/aria2-1.36.0-linux-x86_64.tar.xz
-bin-sha: 59f955283d9651f9805f3bd34e54791902856fde51306b44cb27f71c078ec457
+version: 1.37.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.03.26/aria2-1.37.0-linux-musl-x86_64.tar.xz
+bin-sha: aefcaa2e4c0ea050b00bd32c94079ec8f9859741712ad0adf29bc1fd4269b821

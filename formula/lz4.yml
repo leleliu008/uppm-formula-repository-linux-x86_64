@@ -1,5 +1,5 @@
 summary: Extremely Fast Compression algorithm
 webpage: http://www.lz4.org/
 version: 1.9.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2022.12.11/lz4-1.9.4-linux-x86_64.tar.xz
-bin-sha: ea9f305fb1fe219eb590cb3fad52f2528df825eedc143d235b3f13dc0b1b0e7f
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.03.26/lz4-1.9.4-linux-musl-x86_64.tar.xz
+bin-sha: 7bc41aed67c50e1b3a0b268e86a670eb212cccb6ecf0804d726ae934478a5693

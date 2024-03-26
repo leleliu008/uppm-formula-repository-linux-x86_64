@@ -1,5 +1,5 @@
 summary: Extract, view, and test RAR archives
 webpage: https://www.rarlab.com
 version: 6.1.7
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2022.12.11/unrar-6.1.7-linux-x86_64.tar.xz
-bin-sha: 0a10a6afaa29ef7a2a4b0f0fe91e1063206f13137501d8719cb25ca979c64bda
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.03.26/unrar-6.1.7-linux-musl-x86_64.tar.xz
+bin-sha: 66febcb29a91283de86f476fe20687e69f73a154eca3cea80c263d8a2f10c4f7

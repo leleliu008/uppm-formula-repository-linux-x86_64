@@ -1,5 +1,5 @@
 summary: PNG image optimizing utility
 webpage: https://pngquant.org
-version: 2.17.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2022.12.11/pngquant-2.17.0-linux-x86_64.tar.xz
-bin-sha: 2183006934c7a88d94f8f77896709d67460c97cd83d1feeae360a427a1c071b9
+version: 3.0.3.crate
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.03.26/pngquant-3.0.3.crate-linux-x86_64.tar.xz
+bin-sha: 8e41e1395a2a1f2aaccc24f9fcb2ae23ce356bdf4a2a74dc2d7256c913070737

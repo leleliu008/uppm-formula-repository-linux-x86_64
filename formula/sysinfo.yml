@@ -1,5 +1,5 @@
 summary: a command-line tool to get your system information.
-webpage: https://github.com/leleliu008/C-examples.git
-version: 2023.03.20
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2022.12.11/sysinfo-2023.03.20-linux-x86_64.tar.xz
-bin-sha: d140ec0161b80e184ee17592b8aaa06dacfdbabef48b94c208a222bdda945e23
+webpage: https://github.com/leleliu008/C-examples
+version: 2024.03.26
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.03.26/sysinfo-2024.03.26-linux-x86_64.tar.xz
+bin-sha: abcadcebf6e0c7207c630f48ba022799010aedd09e0f7cfa5ac563ca9bfc3c02

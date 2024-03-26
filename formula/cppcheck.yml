@@ -1,5 +1,5 @@
-summary: Static analysis of C and C++ code
+summary: A static analysis tool for C and C++
 webpage: https://sourceforge.net/projects/cppcheck
-version: 2.8.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2022.12.11/cppcheck-2.8.2-linux-x86_64.tar.xz
-bin-sha: 06295a3076873aab3928345474fd59c656889b21797a037ed586e3607f73f887
+version: 2.13.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.03.26/cppcheck-2.13.0-linux-x86_64.tar.xz
+bin-sha: c93b234f08793f7f3fdbd436cda154679260506c2d391dcb88efdc7a325ea43e

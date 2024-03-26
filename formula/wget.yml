@@ -1,5 +1,5 @@
 summary: Internet file retriever
 webpage: https://www.gnu.org/software/wget
-version: 1.21.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2022.12.11/wget-1.21.3-linux-x86_64.tar.xz
-bin-sha: 1f0b4ed4801a06dfbf33e65ef77633543297a0fd46b6961bb4a200499e97f10b
+version: 1.24.5
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.03.26/wget-1.24.5-linux-x86_64.tar.xz
+bin-sha: 102e335c5df931f1102e343dd96a25ea334f59e7a1f6b5796d70baab99368402

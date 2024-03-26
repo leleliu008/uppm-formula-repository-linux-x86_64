@@ -1,5 +1,5 @@
-summary: Utility to determine file types
+summary: A command-line tool to determine file types
 webpage: https://www.darwinsys.com/file
-version: 5.42
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2022.12.11/file-5.42-linux-x86_64.tar.xz
-bin-sha: 451aeb1dae44fd341b4684836470525eff9516d5f034e1d2fbd1ae2fe22a7bcc
+version: 5.45
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.03.26/file-5.45-linux-x86_64.tar.xz
+bin-sha: 2c221b76d82a7d10edce8e337c9c47c50c506d92511dcce159cdc6ef813909fc

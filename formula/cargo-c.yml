@@ -1,7 +1,5 @@
-summary: Helper program to build and install c-like libraries
+summary: A helper program to build and install C-ABI compatible dynamic and static libraries
 webpage: https://github.com/lu-zero/cargo-c
-version: 0.9.19
-bin-url: https://github.com/lu-zero/cargo-c/releases/download/v0.9.19/cargo-c-x86_64-unknown-linux-musl.tar.gz
-bin-sha: 44e708f6b0b58d9f905a074738227163eb09863a233880e1836d2a6ee7e28baa
-dep-pkg: curl
-unpackd: bin
+version: 0.9.31
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.03.26/cargo-c-0.9.31-linux-x86_64.tar.xz
+bin-sha: d44c464bed32714f59b53caf43a2d0818c19a172a951086451c0e6eb747801aa

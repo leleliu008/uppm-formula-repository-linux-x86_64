@@ -1,5 +1,5 @@
 summary: LZMA-based compression program similar to gzip or bzip2
 webpage: https://www.nongnu.org/lzip
-version: 1.23
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2022.12.11/lzip-1.23-linux-x86_64.tar.xz
-bin-sha: a7d9f8cd004f9d7950d66325b3a9a32a36da21a1b8ff9ade0fd12de82fb93c08
+version: 1.24.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.03.26/lzip-1.24.1-linux-musl-x86_64.tar.xz
+bin-sha: 3d524a5b11cddcaa492a3ca3625a4a1d37f3580778f63cd2ca62004f6c0fc4ad

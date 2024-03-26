@@ -1,5 +1,5 @@
-summary: Light UNIX download accelerator
-webpage: https://github.com/axel-download-accelerator/axel.git
-version: 2.17.11
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2022.12.11/axel-2.17.11-linux-x86_64.tar.xz
-bin-sha: be7649d5daa36199c947e2c98ca56d87e488132cd9ede98ecf0c349849700912
+summary: A lightweight download accelerator
+webpage: https://github.com/axel-download-accelerator/axel
+version: 2.17.13
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.03.26/axel-2.17.13-linux-x86_64.tar.xz
+bin-sha: 7789711c9c81f82c0a7bf8ae836af66a0607ed987f1c2a5637a5c67ce05bdfa5

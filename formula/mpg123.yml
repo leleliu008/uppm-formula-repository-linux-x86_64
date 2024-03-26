@@ -1,5 +1,5 @@
 summary: MP3 player
 webpage: https://www.mpg123.de/
-version: 1.30.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2022.12.11/mpg123-1.30.2-linux-x86_64.tar.xz
-bin-sha: d5ea1d8d566efdc1601aad1fb271dd9601b51e4368a8c312f0dec5c899ffe0eb
+version: 1.32.5
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.03.26/mpg123-1.32.5-linux-musl-x86_64.tar.xz
+bin-sha: f504ff97028ebee3da663f5b735e5422f09bff0e0e10626082c4dbf3df22c116

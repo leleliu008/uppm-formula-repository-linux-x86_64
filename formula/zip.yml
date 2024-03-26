@@ -1,5 +1,5 @@
 summary: Compression and file packaging/archive utility
 webpage: https://infozip.sourceforge.io/Zip.html
 version: 3.0.11
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2022.12.11/zip-3.0.11-linux-x86_64.tar.xz
-bin-sha: 0ca07ab8c61275f3a43190222a11ee30c0d044f18d3908a4f2c171b7b91d1e67
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.03.26/zip-3.0.11-linux-x86_64.tar.xz
+bin-sha: 69ed1bfa03d65e84f8cb3b5c1970168d22e6705d09eda1148df46858535669cf
