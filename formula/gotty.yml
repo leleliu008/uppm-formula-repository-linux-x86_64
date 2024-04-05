@@ -1,5 +1,5 @@
-summary: a simple command-line tool to share your terminal as a web application.
+summary: A simple command-line tool to share your terminal as a web application
 webpage: https://github.com/sorenisanerd/gotty
 version: 1.5.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.03.26/gotty-1.5.0-linux-x86_64.tar.xz
-bin-sha: aa2e96b7fd2a7c0dba28f13b57aa042afa512b99b5abbac104c53b6387bce2f5
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.04.05/gotty-1.5.0-linux-x86_64.tar.xz
+bin-sha: 2f7c933958af6cba40536c9657c4d6757e97198a18efbc97ae9cbce4d3c2f1cc

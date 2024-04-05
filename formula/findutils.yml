@@ -1,5 +1,5 @@
 summary: Collection of GNU find, xargs, and locate
 webpage: https://www.gnu.org/software/findutils
 version: 4.9.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.03.26/findutils-4.9.0-linux-x86_64.tar.xz
-bin-sha: d50d6d60361927c8055950565f8a082f636c5e7a3a59f36cc1a3acf6b5435005
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.04.05/findutils-4.9.0-linux-x86_64.tar.xz
+bin-sha: 1249d01753fcb1d91ffa0ace61f4cdc391a98c18fe8a290e225d27ee4f5c2b1d

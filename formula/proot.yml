@@ -1,5 +1,5 @@
 summary: a user-space implementation of chroot, mount --bind, and binfmt_misc
 webpage: https://proot-me.github.io/
 version: 5.4.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.03.26/proot-5.4.0-linux-x86_64.tar.xz
-bin-sha: 735d3068fd33c18fc95cd08e82ee25c832f15cab3742c03cb8777f016f578fcb
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.04.05/proot-5.4.0-linux-x86_64.tar.xz
+bin-sha: 153f7899376d4b56537273f9cdd193b30bf0a5dfffb18ae5c1655d2ee1029f4d

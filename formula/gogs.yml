@@ -1,5 +1,5 @@
 summary: Go git service
 webpage: https://gogs.io
 version: 0.12.10
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.03.26/gogs-0.12.10-linux-x86_64.tar.xz
-bin-sha: 693764e1afa49215fd7f10b41671e661a314078b2290b4e6832ec499fa151dd6
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.04.05/gogs-0.12.10-linux-x86_64.tar.xz
+bin-sha: 79533cd1ca4a90690d35dd726da2a7a98425136306396e569fd2c098f8352e89

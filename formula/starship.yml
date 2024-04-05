@@ -1,5 +1,5 @@
-summary: Cross-shell prompt for astronauts
+summary: The minimal, blazing-fast, and infinitely customizable prompt for any shell
 webpage: https://starship.rs
-version: 1.18.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.03.26/starship-1.18.1-linux-x86_64.tar.xz
-bin-sha: 7c4c37dc525606690bd5741d1992e08322c53129d4f75955222b15deb6151540
+version: 1.18.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.04.05/starship-1.18.2-linux-x86_64.tar.xz
+bin-sha: 43cc2168e645e72ad763143515f54768206292b235ca572ad4a77acce740eac1

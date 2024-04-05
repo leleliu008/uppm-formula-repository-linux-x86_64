@@ -1,5 +1,5 @@
 summary: A convenient unified display of the most relevant technical and tag data for video and audio files
 webpage: https://mediaarea.net/
 version: 24.01
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.03.26/mediainfo-24.01-linux-x86_64.tar.xz
-bin-sha: 07e0fb40940b16bed0b67939a98c1bcfbf0dee0766a9b8518aeb7c6e33e8897e
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.04.05/mediainfo-24.01-linux-x86_64.tar.xz
+bin-sha: ba0e904dd38890cea8208e826d06506e6089199bf12df32f8074e2c5081323f0

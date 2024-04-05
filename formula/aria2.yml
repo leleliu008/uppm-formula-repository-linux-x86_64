@@ -1,5 +1,5 @@
 summary: Download with resuming and segmented downloading
 webpage: https://aria2.github.io
 version: 1.37.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.03.26/aria2-1.37.0-linux-musl-x86_64.tar.xz
-bin-sha: aefcaa2e4c0ea050b00bd32c94079ec8f9859741712ad0adf29bc1fd4269b821
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.04.05/aria2-1.37.0-linux-musl-x86_64.tar.xz
+bin-sha: 603d2b6455edc73f6ae1313237032a2683872fbbd461bc914a21f50a9ce20212

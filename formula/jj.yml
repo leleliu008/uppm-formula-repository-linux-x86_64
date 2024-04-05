@@ -1,5 +1,5 @@
 summary: A git-compatible distributed version control system
 webpage: https://github.com/martinvonz/jj
 version: 0.15.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.03.26/jj-0.15.1-linux-x86_64.tar.xz
-bin-sha: d5b4fc5737eb992dc0a486419dd1b8d6af50445635c28637d8100cf65e08339d
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.04.05/jj-0.15.1-linux-x86_64.tar.xz
+bin-sha: ec436d6154e6a9a7cc102ab992e226992bb490ece6665e83cfeed9f701d88057

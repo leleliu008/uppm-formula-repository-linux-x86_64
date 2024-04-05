@@ -1,5 +1,5 @@
 summary: A modern, open source, high-performance remote procedure call (RPC) framework
 webpage: https://grpc.io
 version: 1.62.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.03.26/grpc-plugins-1.62.1-linux-x86_64.tar.xz
-bin-sha: 263b81b6649a4ca2d818c3f99cb58de63f97b4d1b0522aa25267d3b2e77b86dc
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.04.05/grpc-plugins-1.62.1-linux-x86_64.tar.xz
+bin-sha: d803959b00138cd8f414f8f4d736e29380357a2603f113749603d77242c7e89d

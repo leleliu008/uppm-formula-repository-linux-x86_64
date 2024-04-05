@@ -1,5 +1,5 @@
 summary: Arbitrary precision numeric processing language
 webpage: https://www.gnu.org/software/bc
 version: 1.07.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.03.26/bc-1.07.1-linux-x86_64.tar.xz
-bin-sha: be7b914781a5f1aac4ad967075481e361689c5111fde33cb584fe827ee55a5d2
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.04.05/bc-1.07.1-linux-x86_64.tar.xz
+bin-sha: 7ec1763e57f86e213b16efd3c6eb07bac3c192f1ab9f34a3ebde5ff4c8e9e0e3

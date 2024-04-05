@@ -1,5 +1,5 @@
 summary: General-purpose data compression with high compression ratio
 webpage: https://tukaani.org/xz
-version: 5.6.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.03.26/xz-5.6.1-linux-x86_64.tar.xz
-bin-sha: 3398bdc6a79a264801a11c626a0cb9efcb0e30c75ec0847278ba14f406887661
+version: 5.4.6
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.04.05/xz-5.4.6-linux-x86_64.tar.xz
+bin-sha: 36d7bd988d0bbbf2c0c24546cd6efe1ed4e2bafe6b1f8820ce9ba5076af7f9f5
