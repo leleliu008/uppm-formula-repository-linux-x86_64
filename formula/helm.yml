@@ -1,5 +1,5 @@
 summary: Kubernetes package manager
 webpage: https://helm.sh/
 version: 3.14.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.04.05/helm-3.14.3-linux-x86_64.tar.xz
-bin-sha: 8f17e3772fd3b31300b48a1639225d524d350c78f339601bf6c0950ade33f81a
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.04.06/helm-3.14.3-linux-x86_64.tar.xz
+bin-sha: e7ebdeb12a2d27ced9a795c35542481cfa79c352516e12ac479b64df4f4d187d

@@ -1,5 +1,5 @@
 summary: Classic UNIX line editor
 webpage: https://www.gnu.org/software/ed/ed.html
 version: 1.20.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.04.05/ed-1.20.1-linux-x86_64.tar.xz
-bin-sha: 3ae6d450c1fa9a8ee01046e9839729d18bece06de3ae3d658aa92d7408d88bb2
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.04.06/ed-1.20.1-linux-x86_64.tar.xz
+bin-sha: 87e4fff78fe5a27f259e8b08a9751ab32bc2084d846c1b2673f358da5ba03767

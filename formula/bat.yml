@@ -1,5 +1,5 @@
 summary: Clone of cat(1) with syntax highlighting and Git integration
 webpage: https://github.com/sharkdp/bat
 version: 0.24.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.04.05/bat-0.24.0-linux-x86_64.tar.xz
-bin-sha: 2d80c1938631937e29881ae60f66d4ce5738d191b3196df7ba822ee33879f2c0
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.04.06/bat-0.24.0-linux-x86_64.tar.xz
+bin-sha: 7819e460d22f7cd66ef6b0daec3e59ae8a2d584a2a320d78c5fca31b2869368b

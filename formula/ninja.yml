@@ -1,5 +1,5 @@
 summary: A small build system with a focus on speed
 webpage: https://ninja-build.org/
 version: 1.11.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.04.05/ninja-1.11.1-linux-x86_64.tar.xz
-bin-sha: 7d00a55f6785b78e8472f07acaa55ad4ad5f40f67b174e501600857e38aef38d
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.04.06/ninja-1.11.1-linux-x86_64.tar.xz
+bin-sha: 41aec23c4d693a9b5b8906c2ef63f6691b28632f3aab9bc46eb4942512773bf7

@@ -1,5 +1,5 @@
 summary: A rewrite of GNU ls with lots of added features like colors, icons, tree-view, more formatting options, etc
 webpage: https://github.com/lsd-rs/lsd
 version: 1.1.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.04.05/lsd-1.1.2-linux-x86_64.tar.xz
-bin-sha: e63c9394bb7867a4915cdfb1536bef400573023429da7746e815345f088c036f
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.04.06/lsd-1.1.2-linux-x86_64.tar.xz
+bin-sha: 5d36b3a3941b7d9aa3c8e620f29db1703a7539dc4825f49ee8b104939c525232

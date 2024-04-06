@@ -1,5 +1,5 @@
 summary: Render markdown on the CLI
 webpage: https://github.com/charmbracelet/glow
 version: 1.5.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.04.05/glow-1.5.1-linux-x86_64.tar.xz
-bin-sha: 9b53766ec5a6654ba51f411f14ef4f27b2de298a79d753640d825e81d58584df
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.04.06/glow-1.5.1-linux-x86_64.tar.xz
+bin-sha: 9c1f284cb29530c7c4cbaf9152d44e9b0a61ed0aeceb6df6919e777b82c6482c

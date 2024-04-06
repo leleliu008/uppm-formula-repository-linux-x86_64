@@ -1,5 +1,5 @@
 summary: Fast Lexical Analyzer, generates Scanners (tokenizers)
 webpage: https://github.com/westes/flex
 version: 2.6.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.04.05/flex-2.6.4-linux-musl-x86_64.tar.xz
-bin-sha: 1b5f222926e8a2372947494cf4fb358ad9141472558373f6e4612f9fc3ea39bb
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.04.06/flex-2.6.4-linux-musl-x86_64.tar.xz
+bin-sha: 901d2a4e993172ce25a50b891ec7b09378a6adee3226df35ff25b241c32acc1b

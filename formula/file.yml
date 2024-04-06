@@ -1,5 +1,5 @@
 summary: A command-line tool to determine file types
 webpage: https://www.darwinsys.com/file
 version: 5.45
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.04.05/file-5.45-linux-x86_64.tar.xz
-bin-sha: ba97f67dc9dfa5a29b6dfa1d4a76bbb062b9636c09c79b6d8e1e265f32528f96
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.04.06/file-5.45-linux-x86_64.tar.xz
+bin-sha: 368c7701df362ea68f449e6b4e2c190840af95fd18fadc3ae3428c864b7e810f

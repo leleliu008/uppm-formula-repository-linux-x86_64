@@ -1,5 +1,5 @@
 summary: A small, fast, self-contained, high-reliability, full-featured, SQL database engine written in C
 webpage: https://www.sqlite.org/
 version: 3.45.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.04.05/sqlite3-3.45.2-linux-musl-x86_64.tar.xz
-bin-sha: 169e516592d14c6aed318dc50f4b21fa88ba0619718a31e750b8e852495486dc
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.04.06/sqlite3-3.45.2-linux-musl-x86_64.tar.xz
+bin-sha: d2e670d589c99f8931540c1ac25e1348629e1973d2b888425ee93571e4cb90fb

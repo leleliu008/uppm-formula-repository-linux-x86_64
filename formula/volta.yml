@@ -1,5 +1,5 @@
 summary: JavaScript toolchain manager for reproducible environments
 webpage: https://volta.sh
 version: 1.1.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.04.05/volta-1.1.1-linux-x86_64.tar.xz
-bin-sha: 4d8bfd431d5fe67b430b22038111b40a05fd49e57d1075b8240ce594fac598a4
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.04.06/volta-1.1.1-linux-x86_64.tar.xz
+bin-sha: 212c1564e2496bcd193a32bb76f87b887e53f6658bb5c179fc7c30729fd33fc7

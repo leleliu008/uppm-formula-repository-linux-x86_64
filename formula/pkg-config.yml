@@ -1,5 +1,5 @@
 summary: A command-line tool to help you insert the correct compiler options when compiling objects and/or linking libraries
 webpage: https://freedesktop.org/wiki/Software/pkg-config
 version: 0.29.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.04.05/pkg-config-0.29.2-linux-x86_64.tar.xz
-bin-sha: 8dabd482cd9f194379eec5bb35fa1695a9a79bbe5b303aea43fa958e25549c65
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.04.06/pkg-config-0.29.2-linux-x86_64.tar.xz
+bin-sha: db8f362a2743d4c59ae2850050caa4a9d1fd31f2a109ed7db527867640c9fb40

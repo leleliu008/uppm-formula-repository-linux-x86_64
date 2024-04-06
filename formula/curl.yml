@@ -1,5 +1,5 @@
 summary: Get a file from an HTTP, HTTPS or FTP server
 webpage: https://curl.haxx.se/
 version: 8.7.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.04.05/curl-8.7.1-linux-musl-x86_64.tar.xz
-bin-sha: ca561ddb42748e1281a47bd8ae4f00bb0764bbf8aa17263036d68f2db7ec8124
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.04.06/curl-8.7.1-linux-musl-x86_64.tar.xz
+bin-sha: 01f74c74f608ac0978ade31baaad9f1deb0dad511b6fe32d20aeb347f67e8877

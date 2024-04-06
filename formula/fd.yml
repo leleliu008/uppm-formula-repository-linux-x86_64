@@ -1,5 +1,5 @@
 summary: A simple, fast and user-friendly alternative to find(1)
 webpage: https://github.com/sharkdp/fd
 version: 9.0.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.04.05/fd-9.0.0-linux-x86_64.tar.xz
-bin-sha: be92aad333107ad6d36a87b8e36118ff571ad7bda5149847e7176695ea07455c
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.04.06/fd-9.0.0-linux-x86_64.tar.xz
+bin-sha: 45e92e762408da19da92439f3074a4fe4c00f93ecb37eb8c15e2f0feea0427e0

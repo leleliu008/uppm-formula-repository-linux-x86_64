@@ -1,5 +1,5 @@
 summary: The minimal, blazing-fast, and infinitely customizable prompt for any shell
 webpage: https://starship.rs
 version: 1.18.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.04.05/starship-1.18.2-linux-x86_64.tar.xz
-bin-sha: 43cc2168e645e72ad763143515f54768206292b235ca572ad4a77acce740eac1
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.04.06/starship-1.18.2-linux-x86_64.tar.xz
+bin-sha: c39306ec55d3e1b6e46bbce80aa255e436d94fa9c33f17f72c63503a341fbf60

@@ -1,5 +1,5 @@
 summary: A collection of Linux utilities
 webpage: https://github.com/util-linux/util-linux
 version: 2.39.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.04.05/util-linux-2.39.3-linux-musl-x86_64.tar.xz
-bin-sha: e9240cb910cd050f6813be7cd0a2c37c2e1d22fce59ac25d60678a3604cd9778
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.04.06/util-linux-2.39.3-linux-musl-x86_64.tar.xz
+bin-sha: 7028a5d552e5ab3f37ca03bdc98dd84a42871195cfa2d9583688209912dc0ebf

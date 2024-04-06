@@ -1,0 +1,5 @@
+summary: A highly customizable Changelog Generator that follows Conventional Commit specifications
+webpage: https://github.com/orhun/git-cliff
+version: 2.2.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.04.06/git-cliff-2.2.0-linux-x86_64.tar.xz
+bin-sha: d22c9d81b12d296a4e8ab53bd9c836401f7ee4410fbb14c240c8287cf6ee72f5

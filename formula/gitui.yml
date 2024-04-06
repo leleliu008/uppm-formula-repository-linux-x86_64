@@ -1,0 +1,5 @@
+summary: Blazing fast terminal-ui for git written in rust
+webpage: https://github.com/extrawurst/gitui
+version: 0.25.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.04.06/gitui-0.25.2-linux-x86_64.tar.xz
+bin-sha: 63a2aa34bb71ae6f76a8331d655a48edadb79cfc627c0e289063f36f5cc13874

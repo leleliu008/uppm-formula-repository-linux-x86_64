@@ -1,5 +1,5 @@
 summary: Very fast implementation of tldr in Rust
 webpage: https://github.com/dbrgn/tealdeer
 version: 1.6.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.04.05/tealdeer-1.6.1-linux-x86_64.tar.xz
-bin-sha: f3844b58019462f911e2808f956bb3487f59c215cd7f7521816af204205e26d1
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.04.06/tealdeer-1.6.1-linux-x86_64.tar.xz
+bin-sha: 176ee559535e924166dc05fdcb0892103aaa06244ef2bbc36afb8d7153f08991

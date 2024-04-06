@@ -1,5 +1,5 @@
 summary: Universal Prebuild Package Manager
 webpage: https://github.com/leleliu008/uppm
 version: 0.17.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.04.05/uppm-0.17.0-linux-x86_64.tar.xz
-bin-sha: 3a00d8e85b8845bd7b8b25a5dc0be1ec658cb0fed70baf142526d14661ce107f
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.04.06/uppm-0.17.0-linux-x86_64.tar.xz
+bin-sha: 8c184bfcd5daf8c4efe3cded62292ff9c656939c8a956e688203b5fe8d332c2d

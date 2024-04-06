@@ -1,5 +1,5 @@
 summary: A collections of easy to use command-line utilities
 webpage: https://github.com/leleliu008/C-examples
-version: 2024.04.05
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.04.05/easyutils-2024.04.05-linux-x86_64.tar.xz
-bin-sha: 562806c202770192757dbd309a9a1f9147e58eef985dc7a669d7b4a485307aef
+version: 2024.04.06
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.04.06/easyutils-2024.04.06-linux-x86_64.tar.xz
+bin-sha: 613dba9e0ecbe7b6b1e03c8197d3ddd36f040556792a7076f92fa8bb68010bc5

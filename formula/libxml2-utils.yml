@@ -1,5 +1,5 @@
 summary: utilities provided by libxml2
 webpage: http://xmlsoft.org
 version: 2.12.6
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.04.05/libxml2-utils-2.12.6-linux-x86_64.tar.xz
-bin-sha: b954345edc8af709b0a61b5752b438e58b82511606775a582ed7bbf6e1ee19ce
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.04.06/libxml2-utils-2.12.6-linux-x86_64.tar.xz
+bin-sha: ada25f8ea24c94837fb56b99e169cb7bbc4e35ca2c47d59d54d6dcaf14e9207c

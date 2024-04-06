@@ -1,5 +1,5 @@
 summary: Power of curl, ease of use of httpie
 webpage: https://curlie.io
 version: 1.7.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.04.05/curlie-1.7.2-linux-x86_64.tar.xz
-bin-sha: b70655dd0998e6b5bd8d3388e63e81f391138b47698abb06cb70969ae9ce44d8
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.04.06/curlie-1.7.2-linux-x86_64.tar.xz
+bin-sha: 5674a71d191578e2089465316b09c20fd24fd06681e1f9981e084c0c9a995641
