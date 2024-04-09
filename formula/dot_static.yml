@@ -2,4 +2,4 @@ summary: A command-line tool for drawing graphs
 webpage: https://www.graphviz.org/
 version: 10.0.1
 bin-url: https://github.com/leleliu008/uppm-package-repository-linux-x86_64/releases/download/2024.04.06/dot_static-10.0.1-linux-x86_64.tar.xz
-bin-sha: 815fe3b854ba82db712b2e98d8f0ec50a3993dc9d9bed4d529634b6da68d21f8
+bin-sha: 7114887976527b5472ac6c9960e9502ec5553692af904f86985eababbc3afbb0
