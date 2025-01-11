@@ -2,4 +2,4 @@ summary: ruby runtime
 webpage: https://www.ruby-lang.org/
 version: 3.3.6
 bin-url: https://github.com/leleliu008/ruby-distribution/releases/download/3.3.6/ruby-3.3.6-linux-any-x86_64.tar.xz
-bin-sha: 6bd1fc6823aa360b74185d8574655dca938ae44f166c2f0e61362d3e89f6ff96
+bin-sha: e88cd03f90934371a275dcdf41901aa006d29f01e53b5ae9ee5a447c8b761a0f
